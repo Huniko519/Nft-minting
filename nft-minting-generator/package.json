@@ -1,0 +1,22 @@
+{
+  "name": "image-generater",
+  "version": "1.0.0",
+  "description": "Image generater module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "image",
+    "generater",
+    "nft"
+  ],
+  "author": "sergey",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "fs": "0.0.1-security",
+    "ipfs-api": "^26.1.2",
+    "merge-images": "^2.0.0"
+  }
+}
